@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kafrnay.github.io/sitemap/sitemap.txt
